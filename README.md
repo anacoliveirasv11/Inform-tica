@@ -11,4 +11,5 @@ Trabalho de Informática- 1 semestre- Logística Noturno_20260226_220502_0000.pd
 [Uploading balancete_receita.xlsx…]()
 # Atividade de Informática - Excel
 [despesa_funcao.xlsx](https://github.com/user-attachments/files/25957116/despesa_funcao.xlsx)
+<img width="1907" height="1011" alt="image" src="https://github.com/user-attachments/assets/d55c2545-2f70-47cb-a46b-d0dfc13b6d08" />
 
