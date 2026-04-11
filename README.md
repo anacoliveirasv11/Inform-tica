@@ -30,5 +30,8 @@ SECRETARIA
 # Atividade de Informática - Excel
 Planilha de cadastro de fornecedores 
  (Link: [fornecedores.xlsx](https://github.com/user-attachments/files/26617488/fornecedores.xlsx))
+
+ FORNECEDORES
 <img width="1904" height="1017" alt="image" src="https://github.com/user-attachments/assets/f8e5378a-7cf2-4594-8a59-22999583d459" />
+PLANILHA 2
 <img width="1904" height="1024" alt="image" src="https://github.com/user-attachments/assets/cbf9f6ab-ea34-473c-bb85-d586c611c4a3" />
