@@ -6,6 +6,7 @@ Trabalho executado via Canva: Figuras e Imagens
 Trabalho de Informática- 1 semestre- Logística Noturno_20260226_220502_0000.pdf
 
 # Atividade de Informática - Excel
+Balancete de receitas de fevereiro com representação gráfica
 [balancete_receita.xlsx](https://github.com/user-attachments/files/25728878/balancete_receita.xlsx)
 <img width="1903" height="1024" alt="image" src="https://github.com/user-attachments/assets/73b51458-94b1-4570-a7bf-e28b74b769ea" />
 
