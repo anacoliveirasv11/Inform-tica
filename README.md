@@ -18,6 +18,7 @@ Planilha 1
 
 # Atividade de Informática - Excel
 Planilha de despesas organizadas por função
+(Link: [despesa_funcao.xlsx](https://github.com/user-attachments/files/25957116/despesa_funcao.xlsx))
 <img width="1901" height="1010" alt="image" src="https://github.com/user-attachments/assets/6c5f5103-15c1-4f40-a576-26c2ffbe31b1" />
 [despesa_funcao.xlsx](https://github.com/user-attachments/files/25957116/despesa_funcao.xlsx)
 <img width="1907" height="1011" alt="image" src="https://github.com/user-attachments/assets/d55c2545-2f70-47cb-a46b-d0dfc13b6d08" />
