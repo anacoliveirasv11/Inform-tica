@@ -24,7 +24,8 @@ DESPESA_FUNÇAO
 <img width="1901" height="1010" alt="image" src="https://github.com/user-attachments/assets/6c5f5103-15c1-4f40-a576-26c2ffbe31b1" />
 PLANILHA 2
 <img width="1907" height="1011" alt="image" src="https://github.com/user-attachments/assets/d55c2545-2f70-47cb-a46b-d0dfc13b6d08" />
-<img width="1889" height="979" alt="image" src="https://github.com/user-attachments/assets/dad8490b-c378-40cb-87b8-08f8867eaf0c" />
+SECRETARIA
+<img width="1903" height="1009" alt="image" src="https://github.com/user-attachments/assets/dd4656e6-9eef-4506-836f-823856611d9e" />
 
 # Atividade de Informática - Excel
  [fornecedores.xlsx](https://github.com/user-attachments/files/26617488/fornecedores.xlsx)
