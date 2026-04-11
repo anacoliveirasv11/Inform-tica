@@ -28,6 +28,7 @@ SECRETARIA
 <img width="1903" height="1009" alt="image" src="https://github.com/user-attachments/assets/dd4656e6-9eef-4506-836f-823856611d9e" />
 
 # Atividade de Informática - Excel
- [fornecedores.xlsx](https://github.com/user-attachments/files/26617488/fornecedores.xlsx)
+Planilha de cadastro de fornecedores 
+ (Link: [fornecedores.xlsx](https://github.com/user-attachments/files/26617488/fornecedores.xlsx))
 <img width="1904" height="1017" alt="image" src="https://github.com/user-attachments/assets/f8e5378a-7cf2-4594-8a59-22999583d459" />
 <img width="1904" height="1024" alt="image" src="https://github.com/user-attachments/assets/cbf9f6ab-ea34-473c-bb85-d586c611c4a3" />
