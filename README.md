@@ -45,6 +45,8 @@ MULTAS_PAGAS
 PERGUNTA 1: QUANTAS MULTAS PAGAS FORAM REGISTRADAS EM SJC?
 <img width="1903" height="1028" alt="image" src="https://github.com/user-attachments/assets/ef2fb044-8697-45e6-be4e-54be19a5aa2a" />
 PERGUNTA 2: QUAL O TIPO DE VEICULO QUE MAIS PAGOU MULTAS EM MARÇO?
+<img width="1349" height="716" alt="image" src="https://github.com/user-attachments/assets/5049605b-acba-471a-bdf8-c602b03b7642" />
+
 
 
 
