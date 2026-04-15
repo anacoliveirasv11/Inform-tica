@@ -36,7 +36,8 @@ Planilha de cadastro de fornecedores
 PLANILHA 2
 <img width="1904" height="1024" alt="image" src="https://github.com/user-attachments/assets/cbf9f6ab-ea34-473c-bb85-d586c611c4a3" />
 
-# Atividade de Informática - Excel
+# Atividade de Informática - Excel[exame_pratico.xlsx](https://github.com/user-attachments/files/26760724/exame_pratico.xlsx)
+
 Planilha de multas pagas do mês de Março de 2026- Dados Abertos do Estado de São Paulo
 (Link:[multas_pagas.xlsx](https://github.com/user-attachments/files/26642392/multas_pagas.xlsx))]
 
