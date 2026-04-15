@@ -36,7 +36,7 @@ Planilha de cadastro de fornecedores
 PLANILHA 2
 <img width="1904" height="1024" alt="image" src="https://github.com/user-attachments/assets/cbf9f6ab-ea34-473c-bb85-d586c611c4a3" />
 
-# Atividade de Informática - Excel[exame_pratico.xlsx](https://github.com/user-attachments/files/26760724/exame_pratico.xlsx)
+# Atividade de Informática - Excel
 
 Planilha de multas pagas do mês de Março de 2026- Dados Abertos do Estado de São Paulo
 (Link:[multas_pagas.xlsx](https://github.com/user-attachments/files/26642392/multas_pagas.xlsx))]
@@ -47,7 +47,8 @@ PERGUNTA 1: QUANTAS MULTAS PAGAS FORAM REGISTRADAS EM SJC?
 <img width="1903" height="1028" alt="image" src="https://github.com/user-attachments/assets/ef2fb044-8697-45e6-be4e-54be19a5aa2a" />
 PERGUNTA 2: QUAL O TIPO DE VEICULO QUE MAIS PAGOU MULTAS EM MARÇO?
 <img width="1349" height="716" alt="image" src="https://github.com/user-attachments/assets/5049605b-acba-471a-bdf8-c602b03b7642" />
-
+# Atividade de Informática- Excel
+Excel[exame_pratico.xlsx](https://github.com/user-attachments/files/26760724/exame_pratico.xlsx)
 
 
 
