@@ -55,13 +55,15 @@ Planilha de exames práticos realizados para fins de habilitação de Março de 
 
 PERGUNTA 1: QUANTOS APROVADOS,REPROVADOS E FALTOSOS PARTICIPARAM?
 
-FÓRMULAS: =CONT.SE(exame_pratico!C:C;"APROVADO");  =CONT.SE(exame_pratico!C:C;"REPROVADO"); =CONT.SE(exame_pratico!C:C;"FALTOSO")
+FÓRMULAS: =CONT.SE(exame_pratico!C:C;"APROVADO"); 
+=CONT.SE(exame_pratico!C:C;"REPROVADO"); 
+=CONT.SE(exame_pratico!C:C;"FALTOSO")
 <img width="1335" height="708" alt="image" src="https://github.com/user-attachments/assets/21dd6cdd-7cb6-4e95-9f0a-6a6e548a7747" />
 
 PERGUNTA 2: QUANTOS CANDIDATOS DO GÊNERO MASCULINO E DO FEMININO PARTICIPARAM?
 
-FÓRMULAS: =CONT.SE(exame_pratico!D:D;"MASCULINO")
-=CONT.SE(exame_pratico!D:D;"FEMININO")
+FÓRMULAS: =CONT.SE(exame_pratico!D:D;"MASCULINO");
+ =CONT.SE(exame_pratico!D:D;"FEMININO")
 <img width="1349" height="714" alt="image" src="https://github.com/user-attachments/assets/3a85fe70-75db-44fd-a222-d93e0afce5fb" />
 
 PERGUNTA 3: QUAL O TOTAL DE APROVADOS POR MUNICÍPIO? 
@@ -71,15 +73,15 @@ FÓRMULAS: =CONT.SES(exame_pratico!B:B;A2;exame_pratico!C:C;"APROVADO")
 
 PERGUNTA 4: QUAL O TOTAL DE QTDE PARA APROVADOS, REPROVADOS E FALTOSOS?
 
-FÓRMULAS: =SOMASE(exame_pratico!C:C;"APROVADO";exame_pratico!M:M)
-=SOMASE(exame_pratico!C:C;"REPROVADO";exame_pratico!M:M)
-=SOMASE(exame_pratico!C:C;"FALTOSO";exame_pratico!M:M)
+FÓRMULAS: =SOMASE(exame_pratico!C:C;"APROVADO";exame_pratico!M:M);
+ =SOMASE(exame_pratico!C:C;"REPROVADO";exame_pratico!M:M);
+ =SOMASE(exame_pratico!C:C;"FALTOSO";exame_pratico!M:M)
 <img width="1342" height="700" alt="image" src="https://github.com/user-attachments/assets/e49f3f5f-11b4-4d59-8125-4c6b7bca5426" />
 
 PERGUNTA 5: QUAL O TOTAL DE CANDIDATOS POR CATEGORIA?
 
-FÓRMULAS:=SOMASE(exame_pratico!E:E;"A";exame_pratico!M:M)
-=SOMASE(exame_pratico!E:E;"B";exame_pratico!M:M)
+FÓRMULAS:=SOMASE(exame_pratico!E:E;"A";exame_pratico!M:M);
+ =SOMASE(exame_pratico!E:E;"B";exame_pratico!M:M)
 <img width="1338" height="709" alt="image" src="https://github.com/user-attachments/assets/24a47052-5eab-458f-8217-1dd09bdf6d27" />
 
 
