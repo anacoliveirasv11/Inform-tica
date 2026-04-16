@@ -51,7 +51,7 @@ PERGUNTA 2: QUAL O TIPO DE VEICULO QUE MAIS PAGOU MULTAS EM MARÇO?
 
 # Atividade de Informática- Excel
 Planilha de exames práticos realizados para fins de habilitação de Março de 2026- Dados Abertos do Estado de São Paulo
-(Link: [exame_pratico.xlsx](https://github.com/user-attachments/files/26760724/exame_pratico.xlsx))
+      (Link: [exame_pratico.xlsx](https://github.com/user-attachments/files/26760724/exame_pratico.xlsx))
 
 PERGUNTA 1: QUANTOS APROVADOS,REPROVADOS E FALTOSOS PARTICIPARAM?
 
