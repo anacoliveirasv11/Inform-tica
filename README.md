@@ -7,7 +7,7 @@ Trabalho de Informática- 1 semestre- Logística Noturno_20260226_220502_0000.pd
 
 # Atividade de Informática - Excel
 Balancete de receitas de fevereiro com representação gráfica
-  (Link:  [balancete_receita.xlsx](https://github.com/user-attachments/files/25728878/balancete_receita.xlsx))
+                       (Link:  [balancete_receita.xlsx](https://github.com/user-attachments/files/25728878/balancete_receita.xlsx))
  
  BALANCETE_RECEITA
   <img width="1913" height="1003" alt="image" src="https://github.com/user-attachments/assets/ad45a1fd-8b93-4248-a6c4-231e98c438d8" />
