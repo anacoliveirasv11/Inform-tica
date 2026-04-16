@@ -37,18 +37,43 @@ PLANILHA 2
 <img width="1904" height="1024" alt="image" src="https://github.com/user-attachments/assets/cbf9f6ab-ea34-473c-bb85-d586c611c4a3" />
 
 # Atividade de Informática - Excel
-
 Planilha de multas pagas do mês de Março de 2026- Dados Abertos do Estado de São Paulo
 (Link:[multas_pagas.xlsx](https://github.com/user-attachments/files/26642392/multas_pagas.xlsx))]
 
 MULTAS_PAGAS
 <img width="1914" height="1015" alt="image" src="https://github.com/user-attachments/assets/c82324ed-ace6-4612-96eb-8e5195762a5e" />
+
 PERGUNTA 1: QUANTAS MULTAS PAGAS FORAM REGISTRADAS EM SJC?
 <img width="1903" height="1028" alt="image" src="https://github.com/user-attachments/assets/ef2fb044-8697-45e6-be4e-54be19a5aa2a" />
+
 PERGUNTA 2: QUAL O TIPO DE VEICULO QUE MAIS PAGOU MULTAS EM MARÇO?
 <img width="1349" height="716" alt="image" src="https://github.com/user-attachments/assets/5049605b-acba-471a-bdf8-c602b03b7642" />
+
 # Atividade de Informática- Excel
-Excel[exame_pratico.xlsx](https://github.com/user-attachments/files/26760724/exame_pratico.xlsx)
+Planilha de exames práticos realizados para fins de habilitação de Março de 2026- Dados Abertos do Estado de São Paulo
+(Link: [exame_pratico.xlsx](https://github.com/user-attachments/files/26760724/exame_pratico.xlsx))
+
+PERGUNTA 1: QUANTOS APROVADOS,REPROVADOS E FALTOSOS PARTICIPARAM?
+FÓRMULAS:
+<img width="1335" height="708" alt="image" src="https://github.com/user-attachments/assets/21dd6cdd-7cb6-4e95-9f0a-6a6e548a7747" />
+
+PERGUNTA 2: QUANTOS CANDIDATOS DO GÊNERO MASCULINO E DO FEMININO PARTICIPARAM?
+FÓRMULAS:
+<img width="1349" height="714" alt="image" src="https://github.com/user-attachments/assets/3a85fe70-75db-44fd-a222-d93e0afce5fb" />
+
+PERGUNTA 3: QUAL O TOTAL DE APROVADOS POR MUNICÍPIO? 
+FÓRMULAS:
+<img width="1342" height="702" alt="image" src="https://github.com/user-attachments/assets/0ebddb5f-a5e2-4acb-b8fc-229b11683bc7" />
+
+PERGUNTA 4: QUAL O TOTAL DE QTDE PARA APROVADOS, REPROVADOS E FALTOSOS?
+FÓRMULAS:
+<img width="1342" height="700" alt="image" src="https://github.com/user-attachments/assets/e49f3f5f-11b4-4d59-8125-4c6b7bca5426" />
+
+PERGUNTA 5: QUAL O TOTAL DE CANDIDATOS POR CATEGORIA?
+FÓRMULAS:
+<img width="1338" height="709" alt="image" src="https://github.com/user-attachments/assets/24a47052-5eab-458f-8217-1dd09bdf6d27" />
+
+
 
 
 
