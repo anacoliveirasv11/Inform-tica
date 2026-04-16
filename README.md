@@ -89,6 +89,10 @@ FÓRMULAS:=SOMASE(exame_pratico!E:E;"A";exame_pratico!M:M);
 Repositório contendo atividades desenvolvidas no curso Python Fundamental 1 - Aprenda Mais MEC
 ( Link do Certificado: [Python_Fundamental_1-Certificado_digital_4026258.pdf](https://github.com/user-attachments/files/26797658/Python_Fundamental_1-Certificado_digital_4026258.pdf) )
 
+<img width="897" height="605" alt="image" src="https://github.com/user-attachments/assets/e876c15e-f30c-4907-857a-0c1d5e5a7c39" />
+<img width="890" height="594" alt="image" src="https://github.com/user-attachments/assets/8ec39d32-ea58-4a9a-810a-fc13c780bc3c" />
+
+
 
 
 
