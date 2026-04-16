@@ -55,9 +55,7 @@ Planilha de exames práticos realizados para fins de habilitação de Março de 
 
 PERGUNTA 1: QUANTOS APROVADOS,REPROVADOS E FALTOSOS PARTICIPARAM?
 
-FÓRMULAS: =CONT.SE(exame_pratico!C:C;"APROVADO")
-=CONT.SE(exame_pratico!C:C;"REPROVADO")
-=CONT.SE(exame_pratico!C:C;"FALTOSO")
+FÓRMULAS: =CONT.SE(exame_pratico!C:C;"APROVADO");  =CONT.SE(exame_pratico!C:C;"REPROVADO"); =CONT.SE(exame_pratico!C:C;"FALTOSO")
 <img width="1335" height="708" alt="image" src="https://github.com/user-attachments/assets/21dd6cdd-7cb6-4e95-9f0a-6a6e548a7747" />
 
 PERGUNTA 2: QUANTOS CANDIDATOS DO GÊNERO MASCULINO E DO FEMININO PARTICIPARAM?
