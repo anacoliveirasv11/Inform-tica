@@ -85,6 +85,10 @@ FÓRMULAS:=SOMASE(exame_pratico!E:E;"A";exame_pratico!M:M);
  =SOMASE(exame_pratico!E:E;"B";exame_pratico!M:M)
 <img width="1338" height="709" alt="image" src="https://github.com/user-attachments/assets/24a47052-5eab-458f-8217-1dd09bdf6d27" />
 
+# Curso de Python - Nível Básico
+Repositório contendo atividades desenvolvidas no curso Python Fundamental 1 - Aprenda Mais MEC
+( Link do Certificado: [Python_Fundamental_1-Certificado_digital_4026258.pdf](https://github.com/user-attachments/files/26797658/Python_Fundamental_1-Certificado_digital_4026258.pdf) )
+
 
 
 
