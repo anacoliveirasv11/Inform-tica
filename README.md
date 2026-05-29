@@ -95,6 +95,19 @@ Repositório contendo atividades desenvolvidas no curso Python Fundamental 1 - A
 # PROVA
 video: Gravando 2026-05-28 225909.mp4
 
+# Atividade Power Bi- 23/04
+
+# Atividade Power Bi- 30/04
+
+# Atividade Power Bi- 07/05
+
+# Atividade Power Bi - 14/05
+
+# Atividade Power Bi - 15/05
+
+# Atividade Power Bi - 22/05
+
+
 
 
 
