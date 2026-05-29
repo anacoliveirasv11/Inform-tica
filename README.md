@@ -1,4 +1,4 @@
-# Inform-tica
+# Informatica
 # Trabalho de Informática - Canva
 Atividades realizadas na disciplina de Informática de CST em Logística
 Trabalho executado via Canva: Figuras e Imagens 
