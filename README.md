@@ -92,6 +92,14 @@ Repositório contendo atividades desenvolvidas no curso Python Fundamental 1 - A
 <img width="897" height="605" alt="image" src="https://github.com/user-attachments/assets/e876c15e-f30c-4907-857a-0c1d5e5a7c39" />
 <img width="890" height="594" alt="image" src="https://github.com/user-attachments/assets/8ec39d32-ea58-4a9a-810a-fc13c780bc3c" />
 
+# PROVA
+video: Gravando 2026-05-28 225909.mp4
+
+
+
+
+
+
 
 
 
