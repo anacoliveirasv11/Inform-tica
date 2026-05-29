@@ -5,7 +5,7 @@ Trabalho executado via Canva: Figuras e Imagens
 <img width="1877" height="914" alt="image" src="https://github.com/user-attachments/assets/9c448cd0-3e6f-4679-8c83-0cd27f8519cd" />
 Trabalho de Informática- 1 semestre- Logística Noturno_20260226_220502_0000.pdf
 
-# Atividade de Informática - Excel
+# Atividade  de Informática - Excel
 Balancete de receitas de fevereiro com representação gráfica
                        (Link:  [balancete_receita.xlsx](https://github.com/user-attachments/files/25728878/balancete_receita.xlsx))
  
@@ -27,7 +27,7 @@ PLANILHA 2
 SECRETARIA
 <img width="1903" height="1009" alt="image" src="https://github.com/user-attachments/assets/dd4656e6-9eef-4506-836f-823856611d9e" />
 
-# Atividade de Informática - Excel
+# Atividade  de Informática - Excel
 Planilha de cadastro de fornecedores 
  (Link: [fornecedores.xlsx](https://github.com/user-attachments/files/26617488/fornecedores.xlsx))
 
@@ -36,7 +36,7 @@ Planilha de cadastro de fornecedores
 PLANILHA 2
 <img width="1904" height="1024" alt="image" src="https://github.com/user-attachments/assets/cbf9f6ab-ea34-473c-bb85-d586c611c4a3" />
 
-# Atividade de Informática - Excel
+# Atividade  de Informática - Excel
 Planilha de multas pagas do mês de Março de 2026- Dados Abertos do Estado de São Paulo
 (Link:[multas_pagas.xlsx](https://github.com/user-attachments/files/26642392/multas_pagas.xlsx))]
 
@@ -49,7 +49,7 @@ PERGUNTA 1: QUANTAS MULTAS PAGAS FORAM REGISTRADAS EM SJC?
 PERGUNTA 2: QUAL O TIPO DE VEICULO QUE MAIS PAGOU MULTAS EM MARÇO?
 <img width="1349" height="716" alt="image" src="https://github.com/user-attachments/assets/5049605b-acba-471a-bdf8-c602b03b7642" />
 
-# Atividade de Informática- Excel
+# Atividade de  Informática- Excel
 Planilha de exames práticos realizados para fins de habilitação de Março de 2026- Dados Abertos do Estado de São Paulo
 
 (Link: [exame_pratico.xlsx](https://github.com/user-attachments/files/26760724/exame_pratico.xlsx))
@@ -95,17 +95,16 @@ Repositório contendo atividades desenvolvidas no curso Python Fundamental 1 - A
 # PROVA
 video: Gravando 2026-05-28 225909.mp4
 
-# Atividade Power Bi- 23/04
+# Atividade 8 Power Bi- 23/04 introdução ao Power Bi
 
-# Atividade Power Bi- 30/04
+<img width="1899" height="1032" alt="image" src="https://github.com/user-attachments/assets/4f853b77-7896-405d-932d-717aa370a8db" />
 
-# Atividade Power Bi- 07/05
 
-# Atividade Power Bi - 14/05
+# Atividade 9 Power Bi- 30/04 Tratamento de dados 
+<img width="1915" height="983" alt="image" src="https://github.com/user-attachments/assets/089a4e3d-1e0b-4868-b0fa-ea24fbb26685" />
+# Atividade 10 Power Bi- 07/05
 
-# Atividade Power Bi - 15/05
-
-# Atividade Power Bi - 22/05
+#
 
 
 
