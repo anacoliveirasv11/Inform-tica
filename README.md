@@ -92,25 +92,26 @@ Repositório contendo atividades desenvolvidas no curso Python Fundamental 1 - A
 <img width="897" height="605" alt="image" src="https://github.com/user-attachments/assets/e876c15e-f30c-4907-857a-0c1d5e5a7c39" />
 <img width="890" height="594" alt="image" src="https://github.com/user-attachments/assets/8ec39d32-ea58-4a9a-810a-fc13c780bc3c" />
 
-# PROVA
-video: Gravando 2026-05-28 225909.mp4
 
-# Atividade 8 introdução ao Power Bi- Sinistro 
+# Atividade introdução ao Power Bi- Sinistro 
 <img width="1901" height="960" alt="image" src="https://github.com/user-attachments/assets/078432f1-3250-4100-9410-fd05a8dacd76" />
 
-
-# Atividade 9 Power Bi 
+# Atividade Power Bi 
 <img width="1899" height="1032" alt="image" src="https://github.com/user-attachments/assets/4f853b77-7896-405d-932d-717aa370a8db" />
 
-
-# Atividade 10 Power Bi-  Tratamento de dados 
+# Atividade Power Bi-  Tratamento de dados 
 <img width="1915" height="983" alt="image" src="https://github.com/user-attachments/assets/089a4e3d-1e0b-4868-b0fa-ea24fbb26685" />
 
-# Atividade 11 Power Bi- Regressão Linear
+# Atividade Power Bi- Regressão Linear
 <img width="1600" height="854" alt="WhatsApp Image 2026-06-10 at 22 15 48" src="https://github.com/user-attachments/assets/7438a59d-28d3-4fa1-837b-929ae0bc07a0" />
 
-# Atividade 12 Power Bi/ Google Collab- Regressão Linear
+# Atividade Power Bi/ Google Collab- Regressão Linear
 <img width="1600" height="824" alt="WhatsApp Image 2026-06-10 at 22 15 48 (1)" src="https://github.com/user-attachments/assets/22b040a9-4b6a-4f5e-aa24-cb81b93f87be" />
+
+# Atividade Excel
+<img width="1330" height="678" alt="image" src="https://github.com/user-attachments/assets/268b0903-2b7d-48e9-b3cb-0b1b3c7786ba" />
+<img width="1360" height="688" alt="image" src="https://github.com/user-attachments/assets/2ef9e2a8-c0e5-494a-8a04-425f69400042" />
+<img width="1356" height="676" alt="image" src="https://github.com/user-attachments/assets/efc2a0c6-5a1c-46a8-8821-4e0ce0694262" />
 
 
 
