@@ -95,18 +95,22 @@ Repositório contendo atividades desenvolvidas no curso Python Fundamental 1 - A
 # PROVA
 video: Gravando 2026-05-28 225909.mp4
 
-# Atividade 8 introdução ao Power Bi
+# Atividade 8 introdução ao Power Bi- Sinistro 
+<img width="1901" height="960" alt="image" src="https://github.com/user-attachments/assets/078432f1-3250-4100-9410-fd05a8dacd76" />
+
 
 # Atividade 9 Power Bi 
-
 <img width="1899" height="1032" alt="image" src="https://github.com/user-attachments/assets/4f853b77-7896-405d-932d-717aa370a8db" />
 
 
-# Atividade 9 Power Bi-  Tratamento de dados 
+# Atividade 10 Power Bi-  Tratamento de dados 
 <img width="1915" height="983" alt="image" src="https://github.com/user-attachments/assets/089a4e3d-1e0b-4868-b0fa-ea24fbb26685" />
-# Atividade 10 Power Bi- 07/05
 
-#
+# Atividade 11 Power Bi- Regressão Linear
+<img width="1600" height="854" alt="WhatsApp Image 2026-06-10 at 22 15 48" src="https://github.com/user-attachments/assets/7438a59d-28d3-4fa1-837b-929ae0bc07a0" />
+
+# Atividade 12 Power Bi/ Google Collab- Regressão Linear
+<img width="1600" height="824" alt="WhatsApp Image 2026-06-10 at 22 15 48 (1)" src="https://github.com/user-attachments/assets/22b040a9-4b6a-4f5e-aa24-cb81b93f87be" />
 
 
 
