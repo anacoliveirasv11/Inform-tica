@@ -95,12 +95,14 @@ Repositório contendo atividades desenvolvidas no curso Python Fundamental 1 - A
 # PROVA
 video: Gravando 2026-05-28 225909.mp4
 
-# Atividade 8 Power Bi- 23/04 introdução ao Power Bi
+# Atividade 8 introdução ao Power Bi
+
+# Atividade 9 Power Bi 
 
 <img width="1899" height="1032" alt="image" src="https://github.com/user-attachments/assets/4f853b77-7896-405d-932d-717aa370a8db" />
 
 
-# Atividade 9 Power Bi- 30/04 Tratamento de dados 
+# Atividade 9 Power Bi-  Tratamento de dados 
 <img width="1915" height="983" alt="image" src="https://github.com/user-attachments/assets/089a4e3d-1e0b-4868-b0fa-ea24fbb26685" />
 # Atividade 10 Power Bi- 07/05
 
