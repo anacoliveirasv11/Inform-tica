@@ -96,13 +96,13 @@ Repositório contendo atividades desenvolvidas no curso Python Fundamental 1 - A
 # Atividade introdução ao Power Bi- Sinistro 
 <img width="1901" height="960" alt="image" src="https://github.com/user-attachments/assets/078432f1-3250-4100-9410-fd05a8dacd76" />
 
-# Atividade Power Bi 
+# Atividade Power Bi- Licenciamento
 <img width="1899" height="1032" alt="image" src="https://github.com/user-attachments/assets/4f853b77-7896-405d-932d-717aa370a8db" />
 
 # Atividade Power Bi-  Tratamento de dados 
 <img width="1915" height="983" alt="image" src="https://github.com/user-attachments/assets/089a4e3d-1e0b-4868-b0fa-ea24fbb26685" />
 
-# Atividade Power Bi- Regressão Linear
+# Atividade Power Bi- Regressão Linear Simples
 <img width="1600" height="854" alt="WhatsApp Image 2026-06-10 at 22 15 48" src="https://github.com/user-attachments/assets/7438a59d-28d3-4fa1-837b-929ae0bc07a0" />
 
 # Atividade Power Bi/ Google Collab- Regressão Linear
