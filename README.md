@@ -104,6 +104,9 @@ Repositório contendo atividades desenvolvidas no curso Python Fundamental 1 - A
 <img width="1899" height="1032" alt="image" src="https://github.com/user-attachments/assets/4f853b77-7896-405d-932d-717aa370a8db" />
 
 # Atividade Power Bi-  Tratamento de dados 
+Qual ano e mês o saldo de movimentação foi menor?
+R= Junho de 2020
+Qual sexo possui o maior saldo de movimentação em cada ano?
 <img width="1915" height="983" alt="image" src="https://github.com/user-attachments/assets/089a4e3d-1e0b-4868-b0fa-ea24fbb26685" />
 
 # Atividade Power Bi- Regressão Linear Simples
