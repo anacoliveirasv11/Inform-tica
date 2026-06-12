@@ -117,7 +117,7 @@ Qual sexo possui o maior saldo de movimentação em cada ano?
 # Atividade Power Bi/ Google Collab- Regressão Linear
 <img width="1600" height="824" alt="WhatsApp Image 2026-06-10 at 22 15 48 (1)" src="https://github.com/user-attachments/assets/22b040a9-4b6a-4f5e-aa24-cb81b93f87be" />
 
-# Atividade Excel
+# Atividade Excel - Qualidade do Vinho
 <img width="1330" height="678" alt="image" src="https://github.com/user-attachments/assets/268b0903-2b7d-48e9-b3cb-0b1b3c7786ba" />
 <img width="1360" height="688" alt="image" src="https://github.com/user-attachments/assets/2ef9e2a8-c0e5-494a-8a04-425f69400042" />
 <img width="1356" height="676" alt="image" src="https://github.com/user-attachments/assets/efc2a0c6-5a1c-46a8-8821-4e0ce0694262" />
