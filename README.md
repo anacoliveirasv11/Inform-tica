@@ -114,7 +114,8 @@ Repositório contendo atividades desenvolvidas no curso Python Fundamental 1 - A
 <img width="1356" height="676" alt="image" src="https://github.com/user-attachments/assets/efc2a0c6-5a1c-46a8-8821-4e0ce0694262" />
 
 # Atividade teste para prova- Power Bi E Excel
-<img width="1914" height="1058" alt="image" src="https://github.com/user-attachments/assets/0238b59d-1b65-49ad-a6f0-27b8bf2c18e2" />
+<img width="1600" height="911" alt="WhatsApp Image 2026-06-11 at 21 13 16 (1)" src="https://github.com/user-attachments/assets/5795e2d2-a575-49e7-8698-4f6adac404cb" />
+
 
 
 
