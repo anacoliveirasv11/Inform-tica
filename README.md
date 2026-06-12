@@ -93,6 +93,10 @@ Repositório contendo atividades desenvolvidas no curso Python Fundamental 1 - A
 <img width="890" height="594" alt="image" src="https://github.com/user-attachments/assets/8ec39d32-ea58-4a9a-810a-fc13c780bc3c" />
 
 
+
+# Curso Power Bi 
+<img width="1027" height="780" alt="image" src="https://github.com/user-attachments/assets/498a70f3-8546-483b-ad24-ed771ccb6410" />
+
 # Atividade introdução ao Power Bi- Sinistro 
 <img width="1901" height="960" alt="image" src="https://github.com/user-attachments/assets/078432f1-3250-4100-9410-fd05a8dacd76" />
 
