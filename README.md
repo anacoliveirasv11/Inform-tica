@@ -128,9 +128,13 @@ Qual sexo possui o maior saldo de movimentação em cada ano?
 
 # Prova Sub- dia 18/06
 1- Digitar todas as instruções em seu github
+
 2- Fazer download municipios.csv (IBGE)
+
 3- Acessar " Dados Abertos de SP" e fazer o download de agricultuta,agropecuaria e cabeça de animais
+
 4- Fazer um dashboard com tres visualizações
+
 5- Responder a pergunta: Responda quais municipios possuem o maior quantidade de rabanho por municio em 2024?
 
 
